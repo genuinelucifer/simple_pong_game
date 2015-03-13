@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1102461502 source:d:\codeblocks projects\mygame2\main.cpp
+	"myfuncs.h"
+
+1102461502 d:\codeblocks projects\mygame2\mytypes.h
+
+1102460146 source:d:\codeblocks projects\mygame2\myfuncs.cpp
+	"myfuncs.h"
+
+1102461788 d:\codeblocks projects\mygame2\myfuncs.h
+	<irrklang/irrKlang.h>
+	"mytypes.h"
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
